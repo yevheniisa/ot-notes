@@ -1,0 +1,7 @@
+# OverTheWire Bandit
+
+| Level | Command(s) | What I learned |
+|---|---|---|
+| 0 → 1  'ssh', 'ls' 'cat' | connct by SSH, ls to check files in direcktory, cat to open file
+|---|---|---|
+| 1 →2 |  
